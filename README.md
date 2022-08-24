@@ -1,5 +1,5 @@
 <!-- Zero width character is used to put extra blank lines before and after code -->
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Jhong-C. Nice to see you.🤗</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Jhon Gonzalez. Nice to see you.🤗</h1>
 <h2 align="center">I am a technology enthusiast who likes to solve problems.</h2>
 <p align="center"><img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" alt="Coder GIF" width="480" height="271">
 <h3>
